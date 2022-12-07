@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
 
-// Link del curso: https://www.youtube.com/watch?v=ajyy8jnvZ-k
+// Link del curso: https://www.youtube.com/watch?v=ajyy8jnvZ-k&list=PL5YuOOJ-FGGjfXdQww1srq3vxL1DiydK2&index=2
 
 package pkg01_poojava;
 
